@@ -19,7 +19,7 @@ const Portfolio = () => {
           <h3>Personal Portfolio</h3>
           <div className="portfolio__item-cta">
             <a
-              href="https://github.com/wildgrin/Portfolio-Website.git"
+              href="https://github.com/wildgrin/Portfolio-Website"
               className="btn"
             >
               Github
@@ -36,10 +36,7 @@ const Portfolio = () => {
           </div>
           <h3>TextUtils - Text Analyzer</h3>
           <div className="portfolio__item-cta">
-            <a
-              href="https://github.com/wildgrin/Portfolio-Website.git"
-              className="btn"
-            >
+            <a href="https://github.com/wildgrin/Text-Utils" className="btn">
               Github
             </a>
             <a
@@ -58,14 +55,11 @@ const Portfolio = () => {
           </div>
           <h3>Stay Woke - News Website</h3>
           <div className="portfolio__item-cta">
-            <a
-              href="https://github.com/wildgrin/Portfolio-Website.git"
-              className="btn"
-            >
+            <a href="https://github.com/wildgrin/Stay-Woke" className="btn">
               Github
             </a>
             <a
-              href="https://img.freepik.com/free-vector/coming-soon-construction-illustration-design_1017-31446.jpg?w=900&t=st=1668850080~exp=1668850680~hmac=325083c752c0f5fa8773b7923a59060f1852db8a79dff17307974a6f3b19734e"
+              href="https://anshulstaywoke.netlify.app"
               className="btn btn-primary"
               target="_blank"
             >
