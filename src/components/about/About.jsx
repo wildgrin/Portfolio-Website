@@ -22,7 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1 Year Full Time</small>
+              <small>3 Year Full Time</small>
             </article>
             {/* <article className="about__card">
               <FiUsers className="about__icon" />
@@ -32,15 +32,15 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>2+ Completed</small>
+              <small>4+ Completed</small>
             </article>
           </div>
 
           <p>
-            Anshul is self-motivated and an avid learner Front-End Web Developer
-            with having 1 year of professional experience with certifications
+            Anshul is self-motivated and an avid learner Dot Net Full-Stack Developer
+            with having 3 year of professional experience with certifications
             and as for personal projects he has couple of deployed websites and
-            working on new ones. 
+            always working on new ones or spending time on learning new things. 
             <br/>
             You can check linked projects from the section below. Hope you like it!
           </p>
